@@ -1,0 +1,12 @@
+<a id="mysched_1882" href="https://lemoyne.libcal.com/appointments/tomkeays/zoom" class="btn btn-default">Make an Appointment</a>
+
+<style type="text/css">
+#mysched_1882 {
+  cursor: pointer;
+  margin: 0 auto;
+  display: inline-block;
+}
+#mysched_1882:hover {
+  opacity: 0.9;
+}
+</style>
